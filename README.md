@@ -66,7 +66,7 @@ TinDog website a simple static and responsive website using html, css and bootst
 - Run website
 
 ```
-git clone https://github.com/abhisheksharma1310/tinDog-web.gitbox-office-react-app.git
-cd box-office-react-app/
+git clone https://github.com/abhisheksharma1310/tinDog-web.git
+cd tinDog-web/
 ```
 
